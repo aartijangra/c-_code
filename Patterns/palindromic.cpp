@@ -13,6 +13,7 @@ int main(){
         for(j=1; j<=n-i; j++){
             cout<<"  ";
         }
+        //--
         
         int k=i;
         for(;j<=n;j++){
