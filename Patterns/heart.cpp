@@ -10,13 +10,13 @@ int main()
             cout<<" ";
         }
         for(int j=1; j<i+1; j++){
-            cout<<"*";
+            cout<<char(3);
         }
         for(int j=1; j<n-i +1; j++){
             cout<<" ";
         }
         for(int j=1; j<i+1; j++){
-            cout<<"*";
+            cout<<char(3);
         }
     cout<<endl;
     }
@@ -26,7 +26,7 @@ int main()
             cout<<" ";
         }
         for(int j=1; j<i*2; j++){
-            cout<<"*";
+            cout<<char(3);
         }
         cout<<endl;
 
